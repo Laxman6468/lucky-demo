@@ -1,3 +1,4 @@
 # lucky-demo
 this is my first repo
-Auther: Lucky
+<br>
+Author: Lucky
